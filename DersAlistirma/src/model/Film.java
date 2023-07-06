@@ -11,7 +11,7 @@ public class Film {
     private String platform;
 
     public Film(String filmName, int year, String director) {
-        FilmName = filmName;
+        filmName = filmName;
         this.year = year;
         this.director = director;
     }
