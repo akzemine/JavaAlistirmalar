@@ -16,9 +16,5 @@ public class Main {
         System.out.println("KDV'li fiyat: " + yeniTutar);
         System.out.println("KDV tutarı: " + kdvTutarı);
 
-
-
-
-
-        }
     }
+}
